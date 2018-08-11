@@ -1,0 +1,1791 @@
+SplineFontDB: 3.0
+FontName: ChronolabsCooperativeSixDotRegularBraille
+FullName: Regular Six Dot Braille
+FamilyName: Braille
+Weight: Regular
+Copyright: (c) Chronolabs Cooperative, 2007-2018
+Version: August 11, 2018; 1;75
+DefaultBaseFilename: Regular Six Dot Braille
+ItalicAngle: 0
+UnderlinePosition: -55
+UnderlineWidth: 12
+Ascent: 819
+Descent: 205
+InvalidEm: 0
+sfntRevision: 0x0001c000
+woffMajor: 1
+woffMinor: 75
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 919 -1506798913 10787940]
+StyleMap: 0x0040
+FSType: 8
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1005315720
+ModificationTime: 1533955739
+PfmFamily: 81
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 103
+VLineGap: 0
+Panose: 1 1 6 9 6 1 1 1 1 3
+OS2TypoAscent: 869
+OS2TypoAOffset: 0
+OS2TypoDescent: -239
+OS2TypoDOffset: 0
+OS2TypoLinegap: 103
+OS2WinAscent: 869
+OS2WinAOffset: 0
+OS2WinDescent: 239
+OS2WinDOffset: 0
+HheadAscent: 869
+HheadAOffset: 0
+HheadDescent: -239
+HheadDOffset: 0
+OS2SubXSize: 1024
+OS2SubYSize: 1024
+OS2SubXOff: 0
+OS2SubYOff: 0
+OS2SupXSize: 1024
+OS2SupYSize: 1024
+OS2SupXOff: 0
+OS2SupYOff: 0
+OS2StrikeYSize: 51
+OS2StrikeYPos: 315
+OS2Vendor: 'PfEd'
+OS2UnicodeRanges: 00000000.00000000.00000000.00000000
+MarkAttachClasses: 1
+DEI: 91125
+TtTable: prep
+SVTCA[x-axis]
+PUSHW_4
+ 7
+ 6
+ 6
+ 232
+RTHG
+WCVTF
+RCVT
+ROUND[Grey]
+PUSHW_5
+ 2
+ 2
+ 276
+ 6
+ 5
+CINDEX
+WCVTP
+RTG
+WCVTF
+RCVT
+ROUND[Grey]
+ADD
+WCVTP
+SVTCA[y-axis]
+PUSHW_4
+ 8
+ 10
+ 10
+ 39
+RTHG
+WCVTF
+RCVT
+ROUND[Grey]
+PUSHW_5
+ 5
+ 5
+ 276
+ 10
+ 5
+CINDEX
+WCVTP
+RTG
+WCVTF
+RCVT
+ROUND[Grey]
+DUP
+ROLL
+ADD
+DUP
+PUSHW_1
+ 9
+SWAP
+WCVTP
+ADD
+WCVTP
+PUSHB_5
+ 30
+ 27
+ 25
+ 19
+ 17
+MPPEM
+GT
+IF
+PUSHB_2
+ 11
+ 0
+CALL
+ELSE
+MPPEM
+GT
+IF
+PUSHB_2
+ 13
+ 0
+CALL
+ELSE
+MPPEM
+GT
+IF
+PUSHB_2
+ 11
+ 0
+CALL
+ELSE
+MPPEM
+GT
+IF
+PUSHB_2
+ 13
+ 0
+CALL
+ELSE
+MPPEM
+GT
+IF
+PUSHB_2
+ 12
+ 0
+CALL
+EIF
+EIF
+EIF
+EIF
+EIF
+CLEAR
+EndTTInstrs
+TtTable: fpgm
+PUSHB_1
+ 0
+FDEF
+PUSHB_5
+ 0
+ 4
+ 2
+ 3
+ 4
+CINDEX
+RCVT
+WCVTP
+CINDEX
+RCVT
+NEG
+WCVTP
+SWAP
+RCVT
+WCVTP
+PUSHB_2
+ 1
+ 0
+RCVT
+NEG
+WCVTP
+ENDF
+EndTTInstrs
+ShortTable: cvt  14
+  72
+  -72
+  276
+  72
+  -72
+  276
+  232
+  508
+  591
+  315
+  39
+  90
+  99
+  108
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  97
+  24
+  2
+  288
+  12
+  2
+  2
+  0
+  2
+  0
+  400
+  420
+  12
+  1
+EndShort
+LangName: 1033 "" "" "Regular" "Chronolabs Cooperative Regular Six Dot Braille" "" "August 11, 2018; 1.75" "" "" "Chronolabs Cooperative" "Dr. Simon Antony Robert" "Regular weight, Six Dot Braille System" "https://github.com/DrARoberts/Braille" "https://internetfounder.wordpress.com" "APL Academic Public License, version 2.0+AAoA-Packaging+AAoA-The files found with the license applies to those file within the folder and recursive of the tree with the file containing this license called: ACADEMIC+AAoA-License+AAoA-These file and media and softwares are formally licensed to the academic facility of choice and any further licensing is defined by that educational facility for the lifetime of the package/download/media!+AAoA-The package is provided without warranty and support is limited please contact the author for any correspondence with work material to do with the package and educational sessions with it for furthering the online material with exercises, tests, tutorials!" "http://www.apache.org/licenses/" "" "Braille" "Regular"
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 38 38 14
+BeginPrivate: 0
+EndPrivate
+BeginChars: 65569 97
+
+StartChar: .notdef
+Encoding: 65536 -1 0
+Width: 740
+Flags: W
+TtInstrs:
+RTG
+PUSHB_8
+ 3
+ 5
+ 4
+ 0
+ 1
+ 7
+ 4
+ 0
+SVTCA[x-axis]
+MDAP[rnd]
+MDRP[rp0,min,rnd,black]
+MDRP[rp0,rnd,white]
+MDRP[min,rnd,black]
+IUP[x]
+SVTCA[y-axis]
+MDAP[rnd]
+MDRP[rp0,min,rnd,black]
+MDRP[rp0,rnd,white]
+MDRP[min,rnd,black]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+160 0 m 1,0,-1
+ 580 0 l 1,1,-1
+ 580 663 l 1,2,-1
+ 160 663 l 1,3,-1
+ 160 0 l 1,0,-1
+180 20 m 1,4,-1
+ 180 643 l 1,5,-1
+ 560 643 l 1,6,-1
+ 560 20 l 1,7,-1
+ 180 20 l 1,4,-1
+EndSplineSet
+Validated: 9
+EndChar
+
+StartChar: .null
+Encoding: 65537 -1 1
+Width: 0
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: space
+Encoding: 32 32 2
+AltUni2: 0028c0.ffffffff.0 002880.ffffffff.0 002840.ffffffff.0 002800.ffffffff.0 0000a0.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+EndChar
+
+StartChar: Pdot1
+Encoding: 65 65 3
+AltUni2: 0028c1.ffffffff.0 002881.ffffffff.0 002841.ffffffff.0 002801.ffffffff.0 000061.ffffffff.0
+Width: 740
+Flags: W
+TtInstrs:
+NPUSHB
+ 17
+ 0
+ 4
+ 6
+ 3
+ 3
+ 9
+ 0
+ 8
+ 9
+ 0
+ 3
+ 1
+ 0
+ 6
+ 0
+ 6
+ 0
+SZP0
+SVTCA[x-axis]
+FLIPOFF
+MIAP[no-rnd]
+ALIGNRP
+ALIGNRP
+MIRP[black]
+MIRP[black]
+IUP[x]
+SVTCA[y-axis]
+MIAP[no-rnd]
+ALIGNRP
+ALIGNRP
+MIRP[black]
+MIRP[black]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+232 519 m 256,0,1
+ 204 519 204 519 182 541 c 128,-1,2
+ 160 563 160 563 160 591 c 256,3,4
+ 160 619 160 619 182 641 c 128,-1,5
+ 204 663 204 663 232 663 c 256,6,7
+ 260 663 260 663 282 641 c 128,-1,8
+ 304 619 304 619 304 591 c 256,9,10
+ 304 563 304 563 282 541 c 128,-1,11
+ 260 519 260 519 232 519 c 256,0,1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Pdot2
+Encoding: 49 49 4
+AltUni2: 0028c2.ffffffff.0 002882.ffffffff.0 002842.ffffffff.0 002802.ffffffff.0
+Width: 740
+Flags: W
+TtInstrs:
+NPUSHB
+ 17
+ 0
+ 4
+ 6
+ 3
+ 3
+ 9
+ 0
+ 9
+ 9
+ 0
+ 3
+ 1
+ 0
+ 6
+ 0
+ 6
+ 0
+SZP0
+SVTCA[x-axis]
+FLIPOFF
+MIAP[no-rnd]
+ALIGNRP
+ALIGNRP
+MIRP[black]
+MIRP[black]
+IUP[x]
+SVTCA[y-axis]
+MIAP[no-rnd]
+ALIGNRP
+ALIGNRP
+MIRP[black]
+MIRP[black]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+232 243 m 256,0,1
+ 204 243 204 243 182 265 c 128,-1,2
+ 160 287 160 287 160 315 c 256,3,4
+ 160 343 160 343 182 365 c 128,-1,5
+ 204 387 204 387 232 387 c 256,6,7
+ 260 387 260 387 282 365 c 128,-1,8
+ 304 343 304 343 304 315 c 256,9,10
+ 304 287 304 287 282 265 c 128,-1,11
+ 260 243 260 243 232 243 c 256,0,1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Pdot3
+Encoding: 39 39 5
+AltUni2: 0028c4.ffffffff.0 002884.ffffffff.0 002844.ffffffff.0 002804.ffffffff.0
+Width: 740
+Flags: W
+TtInstrs:
+NPUSHB
+ 17
+ 0
+ 4
+ 6
+ 3
+ 3
+ 9
+ 0
+ 10
+ 9
+ 0
+ 3
+ 1
+ 0
+ 6
+ 0
+ 6
+ 0
+SZP0
+SVTCA[x-axis]
+FLIPOFF
+MIAP[no-rnd]
+ALIGNRP
+ALIGNRP
+MIRP[black]
+MIRP[black]
+IUP[x]
+SVTCA[y-axis]
+MIAP[no-rnd]
+ALIGNRP
+ALIGNRP
+MIRP[black]
+MIRP[black]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+232 -33 m 256,0,1
+ 204 -33 204 -33 182 -11 c 128,-1,2
+ 160 11 160 11 160 39 c 256,3,4
+ 160 67 160 67 182 89 c 128,-1,5
+ 204 111 204 111 232 111 c 256,6,7
+ 260 111 260 111 282 89 c 128,-1,8
+ 304 67 304 67 304 39 c 256,9,10
+ 304 11 304 11 282 -11 c 128,-1,11
+ 260 -33 260 -33 232 -33 c 256,0,1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Pdot4
+Encoding: 64 64 6
+AltUni2: 0028c8.ffffffff.0 002888.ffffffff.0 002848.ffffffff.0 002808.ffffffff.0 000060.ffffffff.0
+Width: 740
+Flags: W
+TtInstrs:
+NPUSHB
+ 17
+ 0
+ 4
+ 6
+ 3
+ 3
+ 9
+ 0
+ 8
+ 9
+ 0
+ 3
+ 1
+ 0
+ 6
+ 0
+ 7
+ 0
+SZP0
+SVTCA[x-axis]
+FLIPOFF
+MIAP[no-rnd]
+ALIGNRP
+ALIGNRP
+MIRP[black]
+MIRP[black]
+IUP[x]
+SVTCA[y-axis]
+MIAP[no-rnd]
+ALIGNRP
+ALIGNRP
+MIRP[black]
+MIRP[black]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+508 519 m 256,0,1
+ 480 519 480 519 458 541 c 128,-1,2
+ 436 563 436 563 436 591 c 256,3,4
+ 436 619 436 619 458 641 c 128,-1,5
+ 480 663 480 663 508 663 c 256,6,7
+ 536 663 536 663 558 641 c 128,-1,8
+ 580 619 580 619 580 591 c 256,9,10
+ 580 563 580 563 558 541 c 128,-1,11
+ 536 519 536 519 508 519 c 256,0,1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Pdot5
+Encoding: 34 34 7
+AltUni2: 0028d0.ffffffff.0 002890.ffffffff.0 002850.ffffffff.0 002810.ffffffff.0
+Width: 740
+Flags: W
+TtInstrs:
+NPUSHB
+ 17
+ 0
+ 4
+ 6
+ 3
+ 3
+ 9
+ 0
+ 9
+ 9
+ 0
+ 3
+ 1
+ 0
+ 6
+ 0
+ 7
+ 0
+SZP0
+SVTCA[x-axis]
+FLIPOFF
+MIAP[no-rnd]
+ALIGNRP
+ALIGNRP
+MIRP[black]
+MIRP[black]
+IUP[x]
+SVTCA[y-axis]
+MIAP[no-rnd]
+ALIGNRP
+ALIGNRP
+MIRP[black]
+MIRP[black]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+508 243 m 256,0,1
+ 480 243 480 243 458 265 c 128,-1,2
+ 436 287 436 287 436 315 c 256,3,4
+ 436 343 436 343 458 365 c 128,-1,5
+ 480 387 480 387 508 387 c 256,6,7
+ 536 387 536 387 558 365 c 128,-1,8
+ 580 343 580 343 580 315 c 256,9,10
+ 580 287 580 287 558 265 c 128,-1,11
+ 536 243 536 243 508 243 c 256,0,1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Pdot6
+Encoding: 44 44 8
+AltUni2: 0028e0.ffffffff.0 0028a0.ffffffff.0 002860.ffffffff.0 002820.ffffffff.0
+Width: 740
+Flags: W
+TtInstrs:
+NPUSHB
+ 17
+ 0
+ 4
+ 6
+ 3
+ 3
+ 9
+ 0
+ 10
+ 9
+ 0
+ 3
+ 1
+ 0
+ 6
+ 0
+ 7
+ 0
+SZP0
+SVTCA[x-axis]
+FLIPOFF
+MIAP[no-rnd]
+ALIGNRP
+ALIGNRP
+MIRP[black]
+MIRP[black]
+IUP[x]
+SVTCA[y-axis]
+MIAP[no-rnd]
+ALIGNRP
+ALIGNRP
+MIRP[black]
+MIRP[black]
+IUP[y]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+508 -33 m 256,0,1
+ 480 -33 480 -33 458 -11 c 128,-1,2
+ 436 11 436 11 436 39 c 256,3,4
+ 436 67 436 67 458 89 c 128,-1,5
+ 480 111 480 111 508 111 c 256,6,7
+ 536 111 536 111 558 89 c 128,-1,8
+ 580 67 580 67 580 39 c 256,9,10
+ 580 11 580 11 558 -11 c 128,-1,11
+ 536 -33 536 -33 508 -33 c 256,0,1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Pdots12
+Encoding: 66 66 9
+AltUni2: 0028c3.ffffffff.0 002883.ffffffff.0 002843.ffffffff.0 002803.ffffffff.0 000062.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots13
+Encoding: 75 75 10
+AltUni2: 0028c5.ffffffff.0 002885.ffffffff.0 002845.ffffffff.0 002805.ffffffff.0 00006b.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots23
+Encoding: 50 50 11
+AltUni2: 0028c6.ffffffff.0 002886.ffffffff.0 002846.ffffffff.0 002806.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots123
+Encoding: 76 76 12
+AltUni2: 0028c7.ffffffff.0 002887.ffffffff.0 002847.ffffffff.0 002807.ffffffff.0 00006c.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 5 39 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots14
+Encoding: 67 67 13
+AltUni2: 0028c9.ffffffff.0 002889.ffffffff.0 002849.ffffffff.0 002809.ffffffff.0 000063.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots24
+Encoding: 73 73 14
+AltUni2: 0028ca.ffffffff.0 00288a.ffffffff.0 00284a.ffffffff.0 00280a.ffffffff.0 000069.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots124
+Encoding: 70 70 15
+AltUni2: 0028cb.ffffffff.0 00288b.ffffffff.0 00284b.ffffffff.0 00280b.ffffffff.0 000066.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots34
+Encoding: 47 47 16
+AltUni2: 0028cc.ffffffff.0 00288c.ffffffff.0 00284c.ffffffff.0 00280c.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 5 39 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots134
+Encoding: 77 77 17
+AltUni2: 0028cd.ffffffff.0 00288d.ffffffff.0 00284d.ffffffff.0 00280d.ffffffff.0 00006d.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots234
+Encoding: 83 83 18
+AltUni2: 0028ce.ffffffff.0 00288e.ffffffff.0 00284e.ffffffff.0 00280e.ffffffff.0 000073.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots1234
+Encoding: 80 80 19
+AltUni2: 0028cf.ffffffff.0 00288f.ffffffff.0 00284f.ffffffff.0 00280f.ffffffff.0 000070.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots15
+Encoding: 69 69 20
+AltUni2: 0028d1.ffffffff.0 002891.ffffffff.0 002851.ffffffff.0 002811.ffffffff.0 000065.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots25
+Encoding: 51 51 21
+AltUni2: 0028d2.ffffffff.0 002892.ffffffff.0 002852.ffffffff.0 002812.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots125
+Encoding: 72 72 22
+AltUni2: 0028d3.ffffffff.0 002893.ffffffff.0 002853.ffffffff.0 002813.ffffffff.0 000068.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots35
+Encoding: 57 57 23
+AltUni2: 0028d4.ffffffff.0 002894.ffffffff.0 002854.ffffffff.0 002814.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 5 39 N 1 0 0 1 0 0 1
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots135
+Encoding: 79 79 24
+AltUni2: 0028d5.ffffffff.0 002895.ffffffff.0 002855.ffffffff.0 002815.ffffffff.0 00006f.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots235
+Encoding: 54 54 25
+AltUni2: 0028d6.ffffffff.0 002896.ffffffff.0 002856.ffffffff.0 002816.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots1235
+Encoding: 82 82 26
+AltUni2: 0028d7.ffffffff.0 002897.ffffffff.0 002857.ffffffff.0 002817.ffffffff.0 000072.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots45
+Encoding: 94 94 27
+AltUni2: 0028d8.ffffffff.0 002898.ffffffff.0 002858.ffffffff.0 002818.ffffffff.0 00007e.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 6 64 N 1 0 0 1 0 0 1
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots145
+Encoding: 68 68 28
+AltUni2: 0028d9.ffffffff.0 002899.ffffffff.0 002859.ffffffff.0 002819.ffffffff.0 000064.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots245
+Encoding: 74 74 29
+AltUni2: 0028da.ffffffff.0 00289a.ffffffff.0 00285a.ffffffff.0 00281a.ffffffff.0 00006a.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots1245
+Encoding: 71 71 30
+AltUni2: 0028db.ffffffff.0 00289b.ffffffff.0 00285b.ffffffff.0 00281b.ffffffff.0 000067.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots345
+Encoding: 62 62 31
+AltUni2: 0028dc.ffffffff.0 00289c.ffffffff.0 00285c.ffffffff.0 00281c.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 5 39 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots1345
+Encoding: 78 78 32
+AltUni2: 0028dd.ffffffff.0 00289d.ffffffff.0 00285d.ffffffff.0 00281d.ffffffff.0 00006e.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots2345
+Encoding: 84 84 33
+AltUni2: 0028de.ffffffff.0 00289e.ffffffff.0 00285e.ffffffff.0 00281e.ffffffff.0 000074.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots12345
+Encoding: 81 81 34
+AltUni2: 0028df.ffffffff.0 00289f.ffffffff.0 00285f.ffffffff.0 00281f.ffffffff.0 000071.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots16
+Encoding: 42 42 35
+AltUni2: 0028e1.ffffffff.0 0028a1.ffffffff.0 002861.ffffffff.0 002821.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots26
+Encoding: 53 53 36
+AltUni2: 0028e2.ffffffff.0 0028a2.ffffffff.0 002862.ffffffff.0 002822.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots126
+Encoding: 60 60 37
+AltUni2: 0028e3.ffffffff.0 0028a3.ffffffff.0 002863.ffffffff.0 002823.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots36
+Encoding: 45 45 38
+AltUni2: 0028e4.ffffffff.0 0028a4.ffffffff.0 002864.ffffffff.0 002824.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 5 39 N 1 0 0 1 0 0 1
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots136
+Encoding: 85 85 39
+AltUni2: 0028e5.ffffffff.0 0028a5.ffffffff.0 002865.ffffffff.0 002825.ffffffff.0 000075.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots236
+Encoding: 56 56 40
+AltUni2: 0028e6.ffffffff.0 0028a6.ffffffff.0 002866.ffffffff.0 002826.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots1236
+Encoding: 86 86 41
+AltUni2: 0028e7.ffffffff.0 0028a7.ffffffff.0 002867.ffffffff.0 002827.ffffffff.0 000076.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots46
+Encoding: 46 46 42
+AltUni2: 0028e8.ffffffff.0 0028a8.ffffffff.0 002868.ffffffff.0 002828.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 6 64 N 1 0 0 1 0 0 1
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots146
+Encoding: 37 37 43
+AltUni2: 0028e9.ffffffff.0 0028a9.ffffffff.0 002869.ffffffff.0 002829.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots246
+Encoding: 91 91 44
+AltUni2: 0028ea.ffffffff.0 0028aa.ffffffff.0 00286a.ffffffff.0 00282a.ffffffff.0 00007b.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots1246
+Encoding: 36 36 45
+AltUni2: 0028eb.ffffffff.0 0028ab.ffffffff.0 00286b.ffffffff.0 00282b.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots346
+Encoding: 43 43 46
+AltUni2: 0028ec.ffffffff.0 0028ac.ffffffff.0 00286c.ffffffff.0 00282c.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 5 39 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots1346
+Encoding: 88 88 47
+AltUni2: 0028ed.ffffffff.0 0028ad.ffffffff.0 00286d.ffffffff.0 00282d.ffffffff.0 000078.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots2346
+Encoding: 33 33 48
+AltUni2: 0028ee.ffffffff.0 0028ae.ffffffff.0 00286e.ffffffff.0 00282e.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots12346
+Encoding: 38 38 49
+AltUni2: 0028ef.ffffffff.0 0028af.ffffffff.0 00286f.ffffffff.0 00282f.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots56
+Encoding: 59 59 50
+AltUni2: 0028f0.ffffffff.0 0028b0.ffffffff.0 002870.ffffffff.0 002830.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 7 34 N 1 0 0 1 0 0 1
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots156
+Encoding: 58 58 51
+AltUni2: 0028f1.ffffffff.0 0028b1.ffffffff.0 002871.ffffffff.0 002831.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots256
+Encoding: 52 52 52
+AltUni2: 0028f2.ffffffff.0 0028b2.ffffffff.0 002872.ffffffff.0 002832.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots1256
+Encoding: 92 92 53
+AltUni2: 0028f3.ffffffff.0 0028b3.ffffffff.0 002873.ffffffff.0 002833.ffffffff.0 00007c.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots356
+Encoding: 48 48 54
+AltUni2: 0028f4.ffffffff.0 0028b4.ffffffff.0 002874.ffffffff.0 002834.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 5 39 N 1 0 0 1 0 0 1
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots1356
+Encoding: 90 90 55
+AltUni2: 0028f5.ffffffff.0 0028b5.ffffffff.0 002875.ffffffff.0 002835.ffffffff.0 00007a.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots2356
+Encoding: 55 55 56
+AltUni2: 0028f6.ffffffff.0 0028b6.ffffffff.0 002876.ffffffff.0 002836.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots12356
+Encoding: 40 40 57
+AltUni2: 0028f7.ffffffff.0 0028b7.ffffffff.0 002877.ffffffff.0 002837.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots456
+Encoding: 95 95 58
+AltUni2: 0028f8.ffffffff.0 0028b8.ffffffff.0 002878.ffffffff.0 002838.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 6 64 N 1 0 0 1 0 0 1
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots1456
+Encoding: 63 63 59
+AltUni2: 0028f9.ffffffff.0 0028b9.ffffffff.0 002879.ffffffff.0 002839.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots2456
+Encoding: 87 87 60
+AltUni2: 0028fa.ffffffff.0 0028ba.ffffffff.0 00287a.ffffffff.0 00283a.ffffffff.0 000077.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots12456
+Encoding: 93 93 61
+AltUni2: 0028fb.ffffffff.0 0028bb.ffffffff.0 00287b.ffffffff.0 00283b.ffffffff.0 00007d.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots3456
+Encoding: 35 35 62
+AltUni2: 0028fc.ffffffff.0 0028bc.ffffffff.0 00287c.ffffffff.0 00283c.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 5 39 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots13456
+Encoding: 89 89 63
+AltUni2: 0028fd.ffffffff.0 0028bd.ffffffff.0 00287d.ffffffff.0 00283d.ffffffff.0 000079.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots23456
+Encoding: 41 41 64
+AltUni2: 0028fe.ffffffff.0 0028be.ffffffff.0 00287e.ffffffff.0 00283e.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: Pdots123456
+Encoding: 61 61 65
+AltUni2: 0028ff.ffffffff.0 0028bf.ffffffff.0 00287f.ffffffff.0 00283f.ffffffff.0 00009f.ffffffff.0 00009e.ffffffff.0 00009d.ffffffff.0 00009c.ffffffff.0 00009b.ffffffff.0 00009a.ffffffff.0 000099.ffffffff.0 000098.ffffffff.0 000097.ffffffff.0 000096.ffffffff.0 000095.ffffffff.0 000094.ffffffff.0 000093.ffffffff.0 000092.ffffffff.0 000091.ffffffff.0 000090.ffffffff.0 00008f.ffffffff.0 00008e.ffffffff.0 00008d.ffffffff.0 00008c.ffffffff.0 00008b.ffffffff.0 00008a.ffffffff.0 000089.ffffffff.0 000088.ffffffff.0 000087.ffffffff.0 000086.ffffffff.0 000085.ffffffff.0 000084.ffffffff.0 000083.ffffffff.0 000082.ffffffff.0 000081.ffffffff.0 000080.ffffffff.0 00007f.ffffffff.0
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOT4
+Encoding: 65538 -1 66
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 6 64 N 1 0 0 1 0 0 1
+Validated: 1
+EndChar
+
+StartChar: PDOT1
+Encoding: 65539 -1 67
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Validated: 1
+EndChar
+
+StartChar: PDOTS12
+Encoding: 65540 -1 68
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS14
+Encoding: 65541 -1 69
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS145
+Encoding: 65542 -1 70
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS15
+Encoding: 65543 -1 71
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS124
+Encoding: 65544 -1 72
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS1245
+Encoding: 65545 -1 73
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS125
+Encoding: 65546 -1 74
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS24
+Encoding: 65547 -1 75
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS245
+Encoding: 65548 -1 76
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS13
+Encoding: 65549 -1 77
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS123
+Encoding: 65550 -1 78
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 5 39 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS134
+Encoding: 65551 -1 79
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS1345
+Encoding: 65552 -1 80
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS135
+Encoding: 65553 -1 81
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS1234
+Encoding: 65554 -1 82
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS12345
+Encoding: 65555 -1 83
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS1235
+Encoding: 65556 -1 84
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS234
+Encoding: 65557 -1 85
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS2345
+Encoding: 65558 -1 86
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS136
+Encoding: 65559 -1 87
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS1236
+Encoding: 65560 -1 88
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS2456
+Encoding: 65561 -1 89
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS1346
+Encoding: 65562 -1 90
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS13456
+Encoding: 65563 -1 91
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS1356
+Encoding: 65564 -1 92
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 5 39 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS246
+Encoding: 65565 -1 93
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 4 49 N 1 0 0 1 0 0 1
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS1256
+Encoding: 65566 -1 94
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS12456
+Encoding: 65567 -1 95
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 3 65 N 1 0 0 1 0 0 1
+Refer: 4 49 N 1 0 0 1 0 0 0
+Refer: 6 64 N 1 0 0 1 0 0 0
+Refer: 7 34 N 1 0 0 1 0 0 0
+Refer: 8 44 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+
+StartChar: PDOTS45
+Encoding: 65568 -1 96
+Width: 740
+Flags: W
+LayerCount: 2
+Fore
+Refer: 6 64 N 1 0 0 1 0 0 1
+Refer: 7 34 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar
+EndChars
+EndSplineFont
